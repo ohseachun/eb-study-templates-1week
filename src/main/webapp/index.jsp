@@ -1,4 +1,3 @@
-<%@ page import="com.study.template1stweek.ConnectionTest" %>
 <%@ page import="com.study.connection.ConnectionTest" %>
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <!DOCTYPE html>
